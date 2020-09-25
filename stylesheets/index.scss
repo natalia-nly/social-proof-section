@@ -14,8 +14,8 @@ body {
   font-size: 15px;
   padding: 12px;
   padding-top: 60px;
-  background: url("/images/bg-pattern-top-mobile.svg") center top no-repeat,
-    url("/images/bg-pattern-bottom-mobile.svg") center bottom no-repeat;
+  background: url("images/bg-pattern-top-mobile.svg") center top no-repeat,
+    url("images/bg-pattern-bottom-mobile.svg") center bottom no-repeat;
   min-height: 100vh;
 
   .attribution {
@@ -107,8 +107,8 @@ body {
 
 @media all and (min-width: 768px) {
   body {
-    background: url("/images/bg-pattern-top-desktop.svg") center top no-repeat,
-      url("/images/bg-pattern-bottom-desktop.svg") center bottom no-repeat;
+    background: url("images/bg-pattern-top-desktop.svg") center top no-repeat,
+      url("images/bg-pattern-bottom-desktop.svg") center bottom no-repeat;
     max-width: 1200px;
     margin: auto;
 
